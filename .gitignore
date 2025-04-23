@@ -1,0 +1,26 @@
+claude_mcp_server.sh
+uv.lock
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+
+# temp files
+*.tmp
+*.tmp.*
+*.tmp.*.*
+*.tmp.*.*.*
+*.tmp.*.*.*.*
+*.tmp.*.*.*.*.*
+client_tmp
+server_tmp
+
+# filters files
+filters
+
+# local keys
+.fhe_keys

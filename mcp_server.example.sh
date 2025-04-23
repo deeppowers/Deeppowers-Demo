@@ -1,0 +1,1 @@
+source {project_path}/.venv/bin/activate && mcp run {project_path}/mcp_server.py
