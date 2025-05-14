@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/deeppowers-deeppowers-demo-badge.png)](https://mseep.ai/app/deeppowers-deeppowers-demo)
+
 # FHE Image Processing Server
 
 This project demonstrates a server-based application for applying image filters using Fully Homomorphic Encryption (FHE). It allows for secure image processing where the server never sees the unencrypted image content.
